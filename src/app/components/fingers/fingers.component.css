@@ -1,0 +1,21 @@
+.fingers {
+    display: flex;
+    margin: 10px;
+    margin-left: 200px;
+  }
+  
+  .body-part {
+    font-size: 60px;
+  }
+  
+  .fingers-image {
+    display: flex;
+    justify-content: center;
+    margin-left: 400px;
+  }
+  
+  .resize-image {
+    width: 50%;
+    height: auto;
+  }
+  

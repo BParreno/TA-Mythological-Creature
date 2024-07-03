@@ -1,0 +1,8 @@
+.body{
+    display:flexbox;
+    border: 10px solid black;
+    border-radius: 4%;
+    width: 40%;
+    padding: 2%;
+    font-weight: bold;
+}
