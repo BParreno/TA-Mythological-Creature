@@ -1,11 +1,6 @@
 .eyes {
     display: flex;
     margin: 10px;
-    margin-left: 200px;
-  }
-  
-  .body-part {
-    font-size: 60px;
   }
   
   .eyes-image {
@@ -15,7 +10,7 @@
   }
   
   .resize-image {
-    width: 52%;
+    width: 120px;
     height: auto;
   }
   

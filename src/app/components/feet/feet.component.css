@@ -1,13 +1,11 @@
-.feet{
+.feet {
     display: flex;
     margin: 10px;
-    margin-left: 46px;
-}
+  }
 
-.body-part{
-    font-size: 80px;
-}
-
-.feet-image{
-
-}
+  .feet-image img {
+    width: 78%;
+    height: auto;
+    margin-left: 2%;
+  }
+  

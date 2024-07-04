@@ -1,13 +1,11 @@
-.legs{
+.legs {
     display: flex;
     margin: 10px;
-    margin-left: 34px;
-}
+  }
 
-.body-part{
-    font-size: 80px;
-}
-
-.legs-image{
-
-}
+  .legs-image img {
+    width: 75.8%; /* Reducir el tamaño de la imagen al 75% */
+    height: auto;
+    margin-left: 1.4%;
+  }
+  

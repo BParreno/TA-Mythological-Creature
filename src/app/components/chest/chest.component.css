@@ -1,13 +1,12 @@
-.chest{
+.chest {
     display: flex;
     margin: 10px;
-    margin-left: 0px;
-}
-
-.body-part{
-    font-size: 80px;
-}
-
-.chest-image{
-
-}
+    font-size: 35px;
+  }
+  
+  .chest-image img {
+    width: 75%; /* Reducir el tamaño de la imagen al 75% */
+    height: auto;
+    margin-left: 1%;
+  }
+  

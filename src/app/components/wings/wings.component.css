@@ -1,21 +1,16 @@
 .wings {
     display: flex;
     margin: 10px;
-    margin-left: 200px;
   }
-  
-  .body-part {
-    font-size: 60px;
-  }
-  
+
   .wings-image {
     display: flex;
     justify-content: center;
-    align-items: center;
+    margin-left: 400px;
   }
   
   .resize-image {
-    width: 30%;
+    width: 120px;
     height: auto;
   }
   

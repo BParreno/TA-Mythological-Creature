@@ -1,21 +1,17 @@
 .knees {
     display: flex;
     margin: 10px;
-    margin-left: 200px;
-  }
-  
-  .body-part {
-    font-size: 60px;
+
   }
   
   .knees-image {
     display: flex;
-    justify-content: center;
+    justify-content:flex-start;
     margin-left: 400px;
   }
   
   .resize-image {
-    width: 50%;
+    width: 120px;
     height: auto;
   }
   

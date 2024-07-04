@@ -1,8 +1,13 @@
-.body{
-    display:flexbox;
+.creature{
+    display: grid;
     border: 10px solid black;
-    border-radius: 4%;
-    width: 40%;
+    border-radius: 2%;
     padding: 2%;
     font-weight: bold;
+}
+
+.body{
+    width: 60%;
+    height: auto;
+    font-size: 40px;
 }

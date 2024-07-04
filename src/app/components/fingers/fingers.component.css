@@ -1,11 +1,6 @@
 .fingers {
     display: flex;
     margin: 10px;
-    margin-left: 200px;
-  }
-  
-  .body-part {
-    font-size: 60px;
   }
   
   .fingers-image {
@@ -15,7 +10,7 @@
   }
   
   .resize-image {
-    width: 50%;
+    width: 120px;
     height: auto;
   }
   
